@@ -1,0 +1,323 @@
+mairie;label_vvf;adresse_1;adresse_2;boite_postale;departement;libgeo;code_postal;ville;wgs84
+MAIRIE D'ASNIERES SUR SEINE;1 fleur;Hôtel de Ville;1 Place de l'Hôtel de Ville;B.P. 217;92.0;Hauts-de-Seine;92602.0;ASNIERES-SUR-SEINE CEDEX;48.9108577,2.2887597
+MAIRIE D'ANDRESY;2 fleurs;Hôtel de Ville;4 Boulevard Noël Marc;;78.0;Yvelines;78570.0;ANDRESY;48.982059,2.0614804
+MAIRIE DE L'ILE-SAINT-DENIS;1 fleur;Hôtel de Ville;1 rue Méchin;;93.0;Seine-Saint-Denis;93450.0;L'ILE-SAINT-DENIS;48.9354998,2.3405498
+MAIRIE DE MONTGERON;2 fleurs;Hôtel de Ville;112 bis avenue de la République;;91.0;Essonne;91230.0;MONTGERON;48.7040316,2.4602221
+MAIRIE DE NOISY-LE-ROI;2 fleurs;Hôtel de Ville;37 rue André Lebourblanc;;78.0;Yvelines;78590.0;NOISY LE ROI;48.843815,2.064579
+MAIRIE D'EPINAY-SUR-ORGE;2 fleurs;Hôtel de Ville;8 rue de l'Eglise;;91.0;Essonne;91360.0;EPINAY SUR ORGE;48.6731975,2.3240154
+MAIRIE DU CHATELET EN BRIE;3 fleurs;Hôtel de Ville;Place de l'Hôtel de Ville;;77.0;Seine-et-Marne;77820.0;LE CHATELET EN BRIE;48.5047182,2.7942373
+MAIRIE DE MONTIGNY-LE-BRETONNEUX;1 fleur;Hôtel de Ville;66 rue de la Mare aux Carats;;78.0;Yvelines;78180.0;MONTIGNY-LE-BRETONNEUX;48.7679377,2.0366938
+MAIRIE DE SAINT-MAUR-DES-FOSSES;3 fleurs;Hôtel de Ville;Place Charles de Gaulle;;94.0;Val-de-Marne;94107.0;SAINT MAUR DES FOSSES CEDEX;48.803446,2.4854152
+MAIRIE D'AUBERVILLIERS;2 fleurs;Hôtel de Ville;37 Rue du Moutier;;93.0;Seine-Saint-Denis;93300.0;AUBERVILLIERS;48.9151624,2.3793442
+MAIRIE DE BAGNEAUX-SUR-LOING;2 fleurs;Hôtel de Ville;Place de l'Hôtel de Ville;;77.0;Seine-et-Marne;77167.0;BAGNEAUX SUR LOING;48.2308434,2.7060266
+MAIRIE D'EMERAINVILLE;2 fleurs;Hôtel de Ville;16 place de l'Europe;;77.0;Seine-et-Marne;77184.0;EMERAINVILLE;48.8120365,2.6213207
+MAIRIE D'HERICY;1 fleur;Hôtel de Ville;6-8 rue de l'Église;;77.0;Seine-et-Marne;77850.0;HERICY;48.4487545,2.764675
+MAIRIE D'ALFORTVILLE;3 fleurs;Hôtel de Ville;Place François Mitterrand;BP 75;94.0;Val-de-Marne;94140.0;ALFORTVILLE;48.8054058,2.4195177
+MAIRIE DE CARRIERES-SOUS-POISSY;2 fleurs;Hôtel de Ville;1 place Saint Blaise;;78.0;Yvelines;78955.0;CARRIERES SOUS POISSY;48.943851,2.0351294
+MAIRIE DE COIGNIERES;2 fleurs;Hôtel de Ville;rue des Etangs;CS 70521;78.0;Yvelines;78317.0;COIGNIERES CEDEX;48.751888,1.9142739999999998
+MAIRIE D'ETAMPES;2 fleurs;Hôtel de Ville;Place de l'Hôtel de Ville;BP 109;91.0;Essonne;91152.0;ETAMPES CEDEX;48.434471,2.1620369999999998
+MAIRIE DE MOUROUX;1 fleur;Hôtel de Ville;Place de la Mairie;;77.0;Seine-et-Marne;77120.0;MOUROUX;48.8216022,3.0374806
+MAIRIE DE SAINT-DENIS;3 fleurs;Hôtel de Ville;2 place victor hugo;BP 269;93.0;Seine-Saint-Denis;93205.0;SAINT-DENIS CEDEX;48.9358318,2.3584282
+MAIRIE DE CHATENAY-MALABRY;3 fleurs;Hôtel de Ville;26 rue du Docteur Le Savoureux;;92.0;Hauts-de-Seine;92291.0;CHATENAY MALABRY CEDEX;48.7672873,2.277661
+MAIRIE DE LINAS;2 fleurs;Hôtel de Ville;Place Ernest Pillon;;91.0;Essonne;91310.0;LINAS;48.6313611,2.2665352
+MAIRIE DE PALAISEAU;2 fleurs;Hôtel de Ville;91 rue de Paris;;91.0;Essonne;91520.0;PALAISEAU;48.7145089,2.2458606
+MAIRIE DE VERSAILLES;3 fleurs;Hôtel de Ville;4 avenue de Paris;RP 1144;78.0;Yvelines;78011.0;VERSAILLES CEDEX;48.8011089,2.1302176
+MAIRIE DE VILLENEUVE-SAINT-GEORGES;1 fleur;Hôtel de Ville;20 place Pierre Sémard;;94.0;Val-de-Marne;94190.0;VILLENEUVE SAINT GEORGES;48.72985,2.4470183
+MAIRIE DE CLICHY-SOUS-BOIS;1 fleur;Hôtel de Ville;Place du 11 novembre 1918;;93.0;Seine-Saint-Denis;93390.0;CLICHY-SOUS-BOIS;48.910969,2.545893
+MAIRIE DE BUCHELAY;3 fleurs;Hôtel de Ville;1 rue Gabriel Péri;;78.0;Yvelines;78200.0;BUCHELAY;48.9803782,1.6719596
+MAIRIE DE LIVRY-GARGAN;4 fleurs;Hôtel de Ville;3 place François Mittérand;BP 56;93.0;Seine-Saint-Denis;93891.0;LIVRY-GARGAN;48.9194303,2.5374449
+MAIRIE D'ORSAY;2 fleurs;Hôtel de Ville;2 place du Général Leclerc;BP 47;91.0;Essonne;91400.0;ORSAY;48.6989009,2.1873819
+MAIRIE D'ABLON-SUR-SEINE;1 fleur;Hôtel de Ville;16 rue du Maréchal Foch;;94.0;Val-de-Marne;94480.0;ABLON SUR SEINE;48.7247418,2.4216094999999997
+MAIRIE DE BOUTIGNY-SUR-ESSONNE;3 fleurs;Hôtel de Ville;11 bd Maurice Ouin;;91.0;Essonne;91820.0;BOUTIGNY SUR ESSONNE;48.4374566,2.380478
+MAIRIE DE VERNOU-LA-CELLE;1 fleur;Hôtel de Ville;41 rue de la Mairie;;77.0;Seine-et-Marne;77670.0;VERNOU LA CELLE SUR SEINE;48.3888656,2.8471041
+MAIRIE DE ROSNY-SOUS-BOIS;3 fleurs;Hôtel de Ville;20 rue Rochebrune;;93.0;Seine-Saint-Denis;93111.0;ROSNY-SOUS-BOIS CEDEX;48.8721036,2.4883129
+MAIRIE DE VIROFLAY;2 fleurs;Hôtel de Ville;2 place du Général de Gaulle;;78.0;Yvelines;78220.0;VIROFLAY;48.7994999,2.1730631
+MAIRIE DE CLICHY-LA-GARENNE;3 fleurs;Hôtel de Ville;80 bd Jean Jaurès;BP 300;92.0;Hauts-de-Seine;92112.0;CLICHY LA GARENNE;48.9024706,2.3042784
+MAIRIE D'OSNY;2 fleurs;Hôtel de Ville;Rue William Thornley;BP14;95.0;Val-d'Oise;95520.0;OSNY;49.0641282,2.0650952
+MAIRIE DE FERRIERES-EN-BRIE;2 fleurs;Hôtel de Ville;Place Auguste Trézy;;77.0;Seine-et-Marne;77164.0;FERRIERES-EN-BRIE;48.8210921,2.7042802999999997
+MAIRIE DE FONTENAY-LE-FLEURY;1 fleur;Hôtel de Ville;Place du 8 Mai 1945;;78.0;Yvelines;78330.0;FONTENAY LE FLEURY;48.7854533,2.0563093
+MAIRIE DE FORGES-LES-BAINS;1 fleur;Hôtel de Ville;9 rue du Docteur Babin;;91.0;Essonne;91470.0;FORGES LES BAINS;48.6279366,2.0987436
+MAIRIE DE MONTREUIL;2 fleurs;Hôtel de Ville;Place Jean Jaurès;;93.0;Seine-Saint-Denis;93105.0;MONTREUIL;48.8625448,2.4423265
+MAIRIE DE VARENNES-SUR-SEINE;2 fleurs;Hôtel de Ville;Grande Rue;;77.0;Seine-et-Marne;77130.0;VARENNES SUR SEINE;48.3736248,2.9214992
+MAIRIE DE FOURQUEUX;2 fleurs;Hôtel de Ville;1 place de la Grille;;78.0;Yvelines;78112.0;FOURQUEUX;48.8900126,2.0632619
+MAIRIE DE MEAUX;4 fleurs;Hôtel de Ville;2 Place de l'Hôtel de Ville;;77.0;Seine-et-Marne;77100.0;MEAUX;48.9587474,2.877579
+MAIRIE DE VILLIERS-SAINT-FREDERIC;1 fleur;Hôtel de Ville;2 rue Charles de Gaulle;;78.0;Yvelines;78640.0;VILLIERS SAINT FREDERIC;48.8197181,1.8917921999999998
+MAIRIE DES ULIS;3 fleurs;Hôtel de Ville;Rue du Morvan BP 1011;;91.0;Essonne;91940.0;LES ULIS;48.6792779,2.16647
+MAIRIE DE SAINT-OUEN;2 fleurs;Hôtel de Ville;6 place de la République;;93.0;Seine-Saint-Denis;93406.0;SAINT OUEN CEDEX;48.9126201,2.3328277
+MAIRIE DE BONNEUIL-SUR-MARNE;3 fleurs;Hôtel de Ville;7 rue d'Estienne d'Orves;;94.0;Val-de-Marne;94380.0;BONNEUIL SUR MARNE;48.7742189,2.4874346
+MAIRIE DE DAMMARIE-LES-LYS;2 fleurs;Hôtel de Ville;26 rue Charles de Gaulle;BP 24;77.0;Seine-et-Marne;77196.0;DAMMARIE LES LYS CEDEX;48.5148159,2.6344833999999997
+MAIRIE DE GENTILLY;1 fleur;Hôtel de Ville;14 place Henri Barbusse;;94.0;Val-de-Marne;94250.0;GENTILLY;48.815419,2.3486794
+MAIRIE DE GONESSE;3 fleurs;Hôtel de Ville;66 rue de Paris;BP 10060;95.0;Val-d'Oise;95503.0;GONESSE CEDEX;48.9863736,2.4500325
+MAIRIE DE LA FERTE-GAUCHER;1 fleur;Hôtel de Ville;1 Place du Général de Gaulle;;77.0;Seine-et-Marne;77320.0;LA FERTE GAUCHER;48.7814077,3.3056071
+MAIRIE DE GREZ-SUR-LOING;2 fleurs;Hôtel de Ville;86 rue Wilson;;77.0;Seine-et-Marne;77880.0;GREZ SUR LOING;48.3152451,2.690372
+MAIRIE DE LA CELLE-SUR-MORIN;3 fleurs;Hôtel de Ville;Rue en Bas;;77.0;Seine-et-Marne;77515.0;LA CELLE SUR MORIN;48.8058041,2.9689752
+MAIRIE DE MEULAN;1 fleur;Hôtel de Ville;10 Place Brigitte Gros;;78.0;Yvelines;78250.0;MEULAN;49.005122,1.909857
+MAIRIE DE BRIE-COMTE-ROBERT;3 fleurs;Hôtel de Ville;2 rue de Verdun;;77.0;Seine-et-Marne;77170.0;BRIE COMTE ROBERT CEDEX;48.6943638,2.6115823000000002
+MAIRIE DE BAULNE;3 fleurs;Hôtel de Ville;86 route de Corbeil;;91.0;Essonne;91590.0;BAULNE;48.5015456,2.3665706
+MAIRIE DE CHAMPLAN;2 fleurs;Hôtel de Ville;Place de la Mairie;;91.0;Essonne;91160.0;CHAMPLAN;48.7085231,2.2742397
+MAIRIE DE CHARNY;2 fleurs;Hôtel de Ville;1 rue de l'Église;;77.0;Seine-et-Marne;77410.0;CHARNY;48.9709591,2.7609522
+MAIRIE DE CLAYE-SOUILLY;4 fleurs;Hôtel de Ville;Allée André Benoist;;77.0;Seine-et-Marne;77410.0;CLAYE SOUILLY;48.9470996,2.6876029
+MAIRIE DE NANTEUIL-LES-MEAUX;2 fleurs;Hôtel de Ville;14 rue Benjamin Brunet;;77.0;Seine-et-Marne;77100.0;NANTEUIL-LES-MEAUX;48.9280414,2.8963913999999997
+MAIRIE DE DOMONT;3 fleurs;Hôtel de Ville;47 rue de la Mairie;;95.0;Val-d'Oise;95330.0;DOMONT;49.027332,2.3266483
+MAIRIE DE FRESNES-SUR-MARNE;1 fleur;Hôtel de Ville;2 rue de l'Église;;77.0;Seine-et-Marne;77410.0;FRESNES SUR MARNE;48.9376321,2.7415198
+MAIRIE DE CORMEILLES-EN-PARISIS;3 fleurs;Hôtel de Ville;3 avenue Maurice Berteaux;;95.0;Val-d'Oise;95240.0;CORMEILLES EN PARISIS;48.9760299,2.1995218
+MAIRIE DE LOGNES;2 fleurs;Hôtel de Ville;6 Grande allée Charmilles;;77.0;Seine-et-Marne;77185.0;LOGNES;48.8351965,2.6366717
+MAIRIE DE VAIRES-SUR-MARNE;3 fleurs;Hôtel de Ville;26 boulevard de Lorraine;;77.0;Seine-et-Marne;77360.0;VAIRES-SUR-MARNE;48.8732554,2.639576
+MAIRIE DE VIRY-CHATILLON;3 fleurs;Hôtel de Ville;28 place de la République;BP 43;91.0;Essonne;91178.0;VIRY CHATILLON;48.6705276,2.3750816
+MAIRIE DE SAINT-MARD;1 fleur;Hôtel de Ville;Rue de la Mairie;;77.0;Seine-et-Marne;77230.0;SAINT MARD;49.03702,2.694859
+MAIRIE DE L'ISLE-ADAM;3 fleurs;Hôtel de Ville;45 Grande Rue;B.P. 90083;95.0;Val-d'Oise;95290.0;L'ISLE-ADAM;49.1122987,2.2180793
+MAIRIE DE MORANGIS;2 fleurs;Hôtel de Ville;12 avenue de la République;;91.0;Essonne;91420.0;MORANGIS;48.7046755,2.3320049
+MAIRIE DE REBAIS;1 fleur;Hôtel de Ville;2 rue de l' Hôtel de Ville;;77.0;Seine-et-Marne;77510.0;REBAIS;48.8462331,3.2318774
+MAIRIE DE SOUZY-LA-BRICHE;2 fleurs;Hôtel de Ville;4 chemin des Sources;;91.0;Essonne;91580.0;SOUZY LA BRICHE;48.5294082,2.1481415
+MAIRIE DE VAUREAL;3 fleurs;Hôtel de Ville;1 place du Coeur Battant;;95.0;Val-d'Oise;95490.0;VAUREAL;49.030038,2.021423
+MAIRIE D'ANDILLY;2 fleurs;Hôtel de Ville;Rue René Cassin;;95.0;Val-d'Oise;95580.0;ANDILLY;49.0054784,2.3001671
+MAIRIE DE MORIGNY-CHAMPIGNY;2 fleurs;Hôtel de Ville;8 rue de la Mairie;;91.0;Essonne;91150.0;MORIGNY-CHAMPIGNY;48.4466854,2.1818082
+MAIRIE DE SURESNES;3 fleurs;Hôtel de Ville;2 rue Carnot;BP 24;92.0;Hauts-de-Seine;92150.0;SURESNES;48.87097,2.2249946
+MAIRIE DE BERNES-SUR-OISE;3 fleurs;Hôtel de Ville;Place de la Mairie;;95.0;Val-d'Oise;95340.0;BERNES SUR OISE;49.1611088,2.301361
+MAIRIE DE MAISONS ALFORT;4 fleurs;Hôtel de Ville;118 Av du Général de Gaulle;;94.0;Val-de-Marne;94701.0;MAISONS ALFORT CEDEX;48.8008625,2.4298713
+MAIRIE DE CHANTELOUP-EN-BRIE;1 fleur;Hôtel de Ville;1 place Antoinette-Chocq;;77.0;Seine-et-Marne;77600.0;MARNE-LA-VALLEE CEDEX 03;48.856594,2.739092
+MAIRIE DE FONTAINEBLEAU;2 fleurs;Hôtel de Ville;40 rue Grande;;77.0;Seine-et-Marne;77300.0;FONTAINEBLEAU;48.4047588,2.7009635
+MAIRIE DE NOISY-LE-SEC;1 fleur;Hôtel de Ville;Place du Maréchal Foch;;93.0;Seine-Saint-Denis;93134.0;NOISY LE SEC CEDEX;48.8900959,2.4513005
+MAIRIE DE PONTOISE;2 fleurs;Hôtel de Ville;2 rue Victor Hugo;B.P. 109;95.0;Val-d'Oise;95300.0;PONTOISE;49.0511186,2.1003972
+MAIRIE DE RUNGIS;4 fleurs;Hôtel de Ville;5 rue Sainte-Geneviève;;94.0;Val-de-Marne;94150.0;RUNGIS;48.748531,2.347828
+MAIRIE DE VILLE D'AVRAY;1 fleur;Hôtel de Ville;13 route de Saint-Cloud;;92.0;Hauts-de-Seine;92410.0;VILLE D'AVRAY;48.8253897,2.1818772
+MAIRIE DE VILLEBON-SUR-YVETTE;3 fleurs;Hôtel de Ville;Place Gérard Nevers;BP 1;91.0;Essonne;91141.0;VILLEBON SUR YVETTE;48.6964029,2.236654
+MAIRIE DE BOIS-COLOMBES;3 fleurs;Hôtel de Ville;15 rue Charles Duflos;;92.0;Hauts-de-Seine;92270.0;BOIS COLOMBES;48.9143993,2.2678038
+MAIRIE DE BUC;2 fleurs;Hôtel de Ville;3 rue des Frères Robin;B.P. 90236;78.0;Yvelines;78532.0;BUC CEDEX;48.7748112,2.1246662
+MAIRIE D'ERAGNY-SUR-OISE;2 fleurs;Hôtel de Ville;Place Louis Don Marino;BP 70021 ERAGNY-SUR-OISE;95.0;Val-d'Oise;95610.0;ERAGNY-SUR-OISE;49.02458,2.094985
+MAIRIE DE FLAGY;2 fleurs;Hôtel de Ville;5 rue Poêlon;;77.0;Seine-et-Marne;77940.0;FLAGY;48.3126847,2.9214886
+MAIRIE DE LA QUEUE-EN-BRIE;1 fleur;Hôtel de Ville;Place du 18 Juin 1940;;94.0;Val-de-Marne;94510.0;LA QUEUE-EN-BRIE;48.7709132,2.5182143999999997
+MAIRIE DE VILLIERS-LE-BEL;1 fleur;Hôtel de Ville;32 rue de la République;;95.0;Val-d'Oise;95400.0;VILLIERS LE BEL;49.0014803,2.3846182
+MAIRIE DE THOMERY;1 fleur;Hôtel de Ville;9 rue de la République;;77.0;Seine-et-Marne;77810.0;THOMERY;48.4093467,2.7846783999999998
+MAIRIE DE VALENTON;1 fleur;Hôtel de Ville;48 Rue du Colonel Fabien;;94.0;Val-de-Marne;94460.0;VALENTON;48.7443358,2.4697826
+MAIRIE DE BEAUMONT-DU-GATINAIS;1 fleur;Hôtel de Ville;1-3, rue Montgaudier;;77.0;Seine-et-Marne;77890.0;BEAUMONT DU GATINAIS;48.137525,2.477827
+MAIRIE DE DAMMARTIN-EN-GOELE;1 fleur;Hôtel de Ville;79 rue du Général de Gaulle;;77.0;Seine-et-Marne;77230.0;DAMMARTIN EN GOELE;49.054138,2.678613
+MAIRIE DE LISSES;2 fleurs;Hôtel de Ville;2 rue Thirouin;;91.0;Essonne;91090.0;LISSES;48.5978434,2.4249823
+MAIRIE DE PARAY-VIEILLE-POSTE;3 fleurs;Hôtel de Ville;8 place Henri Barbusse;;91.0;Essonne;91550.0;PARAY VIEILLE POSTE;48.7126961,2.3636759
+MAIRIE DE TRILPORT;2 fleurs;Hôtel de Ville;5 rue du Général de Gaulle;;77.0;Seine-et-Marne;77470.0;TRILPORT;48.9583194,2.9467219
+MAIRIE DE VAUCRESSON;1 fleur;Hôtel de Ville;8 Grande Rue;;92.0;Hauts-de-Seine;92420.0;VAUCRESSON;48.8393618,2.1579418
+MAIRIE D'ECHOUBOULAINS;1 fleur;Hôtel de Ville;3 place de la Résistance;;77.0;Seine-et-Marne;77830.0;ECHOUBOULAINS;48.463769,2.945073
+MAIRIE DE BAILLY-ROMAINVILLIERS;2 fleurs;Hôtel de Ville;51 rue de Paris;;77.0;Seine-et-Marne;77700.0;BAILLY ROMAINVILLIERS;48.8470158,2.823775
+MAIRIE D'ABLIS;3 fleurs;Hôtel de Ville;8 rue de la Mairie;;78.0;Yvelines;78660.0;ABLIS;48.517149,1.8331735999999998
+MAIRIE D'OZOIR-LA-FERRIERE;3 fleurs;Hôtel de Ville;45 avenue du Général de Gaulle;;77.0;Seine-et-Marne;77330.0;OZOIR-LA-FERRIERE;48.7614876,2.6717658
+MAIRIE DE SAINT-PIERRE-LES-NEMOURS;1 fleur;Hôtel de Ville;7 Chemin de la Messe;;77.0;Seine-et-Marne;77140.0;SAINT PIERRE LES NEMOURS;48.2633049,2.6845816
+MAIRIE DE GUYANCOURT;1 fleur;Hôtel de Ville;14 rue Ambroise Croizat;;78.0;Yvelines;78280.0;GUYANCOURT;48.771153,2.070582
+MAIRIE DE BOISSY-L'AILLERIE;2 fleurs;Hôtel de Ville;9 rue de la République;;95.0;Val-d'Oise;95650.0;BOISSY L'AILLERIE;49.0768961,2.029151
+MAIRIE D'HERBLAY;1 fleur;Hôtel de Ville;43 rue du Général de Gaulle;;95.0;Val-d'Oise;95220.0;HERBLAY;48.9895494,2.1653567
+MAIRIE DE PONTAULT-COMBAULT;1 fleur;Hôtel de Ville;107 Avenue République;;77.0;Seine-et-Marne;77347.0;PONTAULT COMBAULT;48.800584,2.6076932
+MAIRIE D'ESBLY;1 fleur;Hôtel de Ville;7 rue Victor Hugo;BP 20;77.0;Seine-et-Marne;77450.0;ESBLY;48.9008386,2.8134957
+MAIRIE DE JOUY-MAUVOISIN;2 fleurs;Hôtel de Ville;Place de la Mairie;;78.0;Yvelines;78200.0;JOUY-MAUVOISIN;48.9746373,1.6493558
+MAIRIE DE LEVALLOIS-PERRET;4 fleurs;Hôtel de Ville;Place de la République;;92.0;Hauts-de-Seine;92300.0;LEVALLOIS-PERRET;48.8931616,2.2886642999999998
+MAIRIE DE POISSY;3 fleurs;Hôtel de Ville;Place de la République;;78.0;Yvelines;78300.0;POISSY;48.9277733,2.0440274
+MAIRIE DE SAINT-GERMAIN-EN-LAYE;3 fleurs;Hôtel de Ville;16 Rue de Pontoise;;78.0;Yvelines;78100.0;SAINT GERMAIN EN LAYE;48.8989295,2.0941816
+MAIRIE DE SARTROUVILLE;3 fleurs;Hôtel de Ville;Place de l'Hôtel de Ville;BP 275;78.0;Yvelines;78506.0;SARTROUVILLE;48.940244,2.157974
+MAIRIE D'ERMONT;3 fleurs;Hôtel de Ville;100 rue Louis Savoie;;95.0;Val-d'Oise;95123.0;ERMONT CEDEX;48.9916222,2.2585406
+MAIRIE DE MAUCHAMPS;1 fleur;Hôtel de Ville;1 place Saint Jean;;91.0;Essonne;91730.0;MAUCHAMPS;48.5300541,2.1942507
+MAIRIE DE NOISIEL;3 fleurs;Hôtel de Ville;26 Place Emile Menier;;77.0;Seine-et-Marne;77186.0;NOISIEL;48.8548635,2.6287589000000002
+MAIRIE DE RIS-ORANGIS;3 fleurs;Hôtel de Ville;Place du Général de Gaulle;;91.0;Essonne;91130.0;RIS-ORANGIS;48.6536186,2.41603
+MAIRIE DE ROMAINVILLE;2 fleurs;Hôtel de Ville;4 rue de Paris;;93.0;Seine-Saint-Denis;93231.0;ROMAINVILLE CEDEX;48.8846726,2.4309526
+MAIRIE DE SAINT-CLOUD;2 fleurs;Hôtel de Ville;13 place Charles de Gaulle;;92.0;Hauts-de-Seine;92210.0;SAINT CLOUD;48.8438108,2.219086
+MAIRIE DE ROISSY-EN-BRIE;1 fleur;Hôtel de Ville;9 rue Pasteur;;78.0;Yvelines;77680.0;ROISSY EN BRIE;48.79075,2.6545959999999997
+MAIRIE DE BOURG-LA-REINE;3 fleurs;Hôtel de Ville;6 boulevard Carnot;;92.0;Hauts-de-Seine;92340.0;BOURG LA REINE;48.7788678,2.315958
+MAIRIE DE SAINT-FARGEAU-PONTHIERRY;2 fleurs;Hôtel de Ville;69 avenue de Fontainebleau;;77.0;Seine-et-Marne;77310.0;SAINT FARGEAU PONTHIERRY;48.5303778,2.5433768
+MAIRIE DU PECQ;3 fleurs;Hôtel de Ville;13 Bis Quai Maurice Berteaux;BP 60;78.0;Yvelines;78231.0;LE PECQ CEDEX;48.89715,2.106812
+MAIRIE DE MONTIGNY-LES-CORMEILLES;1 fleur;Hôtel de Ville;14 rue Fortuné-Charlot;BP 90237;95.0;Val-d'Oise;95370.0;MONTIGNY LES CORMEILLES;48.987598,2.187685
+MAIRIE DE LIMEIL-BREVANNES;1 fleur;Hôtel de Ville;2 place Charles de Gaulle;;94.0;Val-de-Marne;94450.0;LIMEIL BREVANNES;48.7494264,2.4803666
+MAIRIE DE GARGES-LES-GONESSE;2 fleurs;Hôtel de Ville;8 place de l'Hôtel de Ville;BP2;95.0;Val-d'Oise;95141.0;GARGES-LES-GONESSE CEDEX;48.9719166,2.3993368999999998
+MAIRIE DE GOUSSAINVILLE;2 fleurs;Hôtel de Ville;Place de la Charmeuse;;95.0;Val-d'Oise;95191.0;GOUSSAINVILLE CEDEX;49.0327681,2.4734199
+MAIRIE DE CHAMPS-SUR-MARNE;3 fleurs;Hôtel de Ville;1 rue de la mairie;BP 1 Champs-sur-Marne;77.0;Seine-et-Marne;77427.0;MARNE LA VALLEE CEDEX 2;48.852306,2.602327
+MAIRIE DE BOBIGNY;2 fleurs;Hôtel de Ville;31 Avenue du Président Salvador-Allende;;93.0;Seine-Saint-Denis;93009.0;BOBIGNY CEDEX;48.905018,2.445616
+MAIRIE DE BOISSISE-LA-BERTRAND;1 fleur;Hôtel de Ville;2 rue François Rolin;;77.0;Seine-et-Marne;77350.0;BOISSISE-LA-BERTRAND;48.5267975,2.5883148
+MAIRIE DE COURBEVOIE;4 fleurs;Hôtel de Ville;Place de l'Hôtel de Ville;;92.0;Hauts-de-Seine;92401.0;COURBEVOIE CEDEX;48.9103547,2.2892967
+MAIRIE DE GARGENVILLE;2 fleurs;Hôtel de Ville;15 place du 11 Novembre 1918;;78.0;Yvelines;78440.0;GARGENVILLE;48.9931707,1.8511175999999998
+MAIRIE DE BOISSY-SAINT-LEGER;3 fleurs;Hôtel de Ville;7 boulevard Léon Révillon;;94.0;Val-de-Marne;94470.0;BOISSY-SAINT-LEGER;48.747934,2.5131473
+MAIRIE DE CHATILLON;3 fleurs;Hôtel de Ville;1 place de la Libération;BP 88;92.0;Hauts-de-Seine;92323.0;CHATILLON CEDEX;48.799848,2.2896549999999998
+MAIRIE DE CHELLES;3 fleurs;Hôtel de Ville;Parc du Souvenir Emile Fouchard;;77.0;Seine-et-Marne;77505.0;CHELLES CEDEX;48.877856,2.59024
+MAIRIE DE MANDRES-LES-ROSES;1 fleur;Hôtel de Ville;4 rue du Général Leclerc;;94.0;Val-de-Marne;94520.0;MANDRES LES ROSES;48.701506,2.5419162
+MAIRIE DE NANTERRE;2 fleurs;Hôtel de Ville;88-188 rue du 8 Mai 1945;;92.0;Hauts-de-Seine;92000.0;NANTERRE;48.8923373,2.2067202
+MAIRIE DE BAILLY;1 fleur;Hôtel de Ville;1 rue des Chênes;;78.0;Yvelines;78870.0;BAILLY;48.8390927,2.0793698
+MAIRIE DE DEUIL-LA-BARRE;2 fleurs;Hôtel de Ville;36 rue Charles de Gaulle;;95.0;Val-d'Oise;95170.0;DEUIL-LA-BARRE;48.9748765,2.3283182
+MAIRIE DES CLAYES-SOUS-BOIS;2 fleurs;Hôtel de Ville;Place Charles de Gaulle;;78.0;Yvelines;78340.0;LES CLAYES-SOUS-BOIS;48.8213381,1.986654
+MAIRIE DE VILLIERS-SUR-MARNE;2 fleurs;Hôtel de Ville;Place de l'Hôtel de Ville;;94.0;Val-de-Marne;94350.0;VILLIERS SUR MARNE;48.8257452,2.5410886
+MAIRIE DE MILLY-LA-FORET;1 fleur;Hôtel de Ville;Place de la République;;91.0;Essonne;91490.0;MILLY-LA-FORET;48.4031739,2.4673194
+MAIRIE DE TORCY;2 fleurs;Hôtel de Ville;Place de l'Appel du 18 Juin 1940;;77.0;Seine-et-Marne;77207.0;TORCY CEDEX 01;48.849672,2.6522490999999997
+MAIRIE DE VILLEJUIF;1 fleur;Hôtel de Ville;2 esplanade Pierre-Yves Cosnier;;94.0;Val-de-Marne;94807.0;VILLEJUIF CEDEX;48.79187,2.363596
+MAIRIE DE VILLENEUVE-LE-ROI;2 fleurs;Hôtel de Ville;1 place de la Vieille Eglise;;94.0;Val-de-Marne;94290.0;VILLENEUVE LE ROI;48.7350316,2.4079871
+MAIRIE DE VILLIERS-EN-BIERE;1 fleur;Hôtel de Ville;1 rue Cambot;;77.0;Seine-et-Marne;77190.0;VILLIERS EN BIERE;48.4941555,2.5987081
+MAIRIE DE BAGNEUX;3 fleurs;Hôtel de Ville;57 Avenue Henri-Ravera;;92.0;Hauts-de-Seine;92220.0;BAGNEUX;48.79848,2.3041662
+MAIRIE DE BREUILLET;1 fleur;Hôtel de Ville;3 rue de la Gare;;91.0;Essonne;91650.0;BREUILLET;48.5658169,2.1706266
+MAIRIE DE COLOMBES;3 fleurs;Hôtel de Ville;Place de la République;;92.0;Hauts-de-Seine;92701.0;COLOMBES CEDEX;48.9229955,2.2547891
+MAIRIE DE MOISSY-CRAMAYEL;3 fleurs;Hôtel de Ville;6 place du Souvenir;BP 24;77.0;Seine-et-Marne;77557.0;MOISSY-CRAMAYEL;48.626733,2.5932406
+MAIRIE DE SAINTE GENEVIEVE DES BOIS;4 fleurs;Hôtel de Ville;Place Roger Perriaud;;91.0;Essonne;91700.0;SAINTE GENEVIEVE DES BOIS;48.6408872,2.3260068
+MAIRIE DE BEAUMONT-SUR-OISE;1 fleur;Hôtel de Ville;29 rue de Paris;;95.0;Val-d'Oise;95260.0;BEAUMONT-SUR-OISE;49.1416945,2.2840823
+MAIRIE DE GOUSSONVILLE;1 fleur;Hôtel de Ville;2 rue du Bois de l'Aulnaye;;78.0;Yvelines;78930.0;GOUSSONVILLE;48.91894,1.765858
+MAIRIE DE SAINT-MAURICE;2 fleurs;Hôtel de Ville;55 rue du Maréchal Leclerc;;94.0;Val-de-Marne;94410.0;SAINT MAURICE;48.8180226,2.4263436
+MAIRIE DE SAINT-MICHEL-SUR-ORGE;2 fleurs;Hôtel de Ville;16 rue de l'Eglise;;91.0;Essonne;91241.0;SAINT MICHEL SUR ORGE;48.6302877,2.3026443
+MAIRIE DE GENNEVILLIERS;3 fleurs;Hôtel de Ville;177 avenue Gabriel Péri;;92.0;Hauts-de-Seine;92230.0;GENNEVILLIERS;48.9258469,2.2943438
+MAIRIE DE SOUPPES-SUR-LOING;1 fleur;Hôtel de Ville;19 avenue du Maréchal Leclerc;;77.0;Seine-et-Marne;77460.0;SOUPPES SUR LOING;48.1832689,2.7357293
+MAIRIE DE DRANCY;3 fleurs;Hôtel de Ville;Place de l'Hôtel de Ville;;93.0;Seine-Saint-Denis;93700.0;DRANCY;48.9344024,2.4996776
+MAIRIE DE CHOISY-LE-ROI;3 fleurs;Hôtel de Ville;Place Gabriel Péri;BP 208;94.0;Val-de-Marne;94607.0;CHOISY LE ROI CEDEX;48.762962,2.408831
+MAIRIE DE LIMOURS-EN-HUREPOIX;2 fleurs;Hôtel de Ville;Place du Général de Gaulle;;91.0;Essonne;91470.0;LIMOURS EN HUREPOIX;48.6460171,2.0762799
+MAIRIE DE GAGNY;4 fleurs;Hôtel de Ville;1 place Foch;;93.0;Seine-Saint-Denis;93220.0;GAGNY;48.8635041,2.575157
+MAIRIE DU BLANC-MESNIL;3 fleurs;Hôtel de Ville;Place Gabriel Péri;;93.0;Seine-Saint-Denis;93156.0;LE BLANC MESNIL CEDEX;48.938876,2.4641883
+MAIRIE DE MAGNY-LE-HONGRE;3 fleurs;Hôtel de Ville;21 rue du Moulin à Vent;;77.0;Seine-et-Marne;77700.0;MAGNY-LE-HONGRE;48.8661321,2.8140467
+MAIRIE DE VAUJOURS;2 fleurs;Hôtel de Ville;20 rue Alexandre Boucher;;93.0;Seine-Saint-Denis;93410.0;VAUJOURS;48.9323852,2.5674014
+MAIRIE DE VILLEMOMBLE;3 fleurs;Hôtel de Ville;13 bis rue d'Avron;;93.0;Seine-Saint-Denis;93250.0;VILLEMOMBLE;48.8828407,2.5071909999999997
+MAIRIE DE BALLAINVILLIERS;1 fleur;Hôtel de Ville;1 rue Longjumeau;;91.0;Essonne;91160.0;BALLAINVILLIERS;48.6764553,2.2925639
+MAIRIE DE COLLEGIEN;1 fleur;Hôtel de Ville;8 place Mireille Morvan;BP 80 - Collégien;77.0;Seine-et-Marne;77090.0;COLLEGIEN;48.8367897,2.6721774
+MAIRIE DE GRESSY;1 fleur;Hôtel de Ville;12 avenue du Château;;77.0;Seine-et-Marne;77410.0;GRESSY;48.9641417,2.6741434
+MAIRIE D'ISSY LES MOULINEAUX;3 fleurs;Hôtel de Ville;47 Rue du Général Leclerc;;92.0;Hauts-de-Seine;92131.0;ISSY LES MOULINEAUX;48.8246398,2.2749649
+MAIRIE DE SERRIS;3 fleurs;Hôtel de Ville;12 rue Emile Cloud;;77.0;Seine-et-Marne;77700.0;SERRIS;48.8443133,2.7887482
+MAIRIE DE TIGERY;2 fleurs;Hôtel de Ville;2 Place Liedekerke-Beaufort;B.P. 24;91.0;Essonne;91250.0;TIGERY;48.639413,2.5070883
+MAIRIE DE LA FERTE-SOUS-JOUARRE;2 fleurs;Hôtel de Ville;Place de l'Hôtel de Ville;BP 45;77.0;Seine-et-Marne;77260.0;LA FERTE-SOUS-JOUARRE;48.950195,3.129322
+MAIRIE DU MESNIL-LE-ROI;3 fleurs;Hôtel de Ville;1 rue du Général Leclerc;;78.0;Yvelines;78605.0;LE MESNIL-LE-ROI CEDEX;48.9279705,2.1223156
+MAIRIE DE LIMAY;3 fleurs;Hôtel de Ville;5 avenue du Président Wilson;;78.0;Yvelines;78520.0;LIMAY;48.9920293,1.7353290000000001
+MAIRIE DE SAINT-BRICE-SOUS-FORET;1 fleur;Hôtel de Ville;14 rue de Paris;;95.0;Val-d'Oise;95350.0;SAINT BRICE SOUS FORET;48.997365,2.3566594
+MAIRIE DE BRIIS-SOUS-FORGES;3 fleurs;Hôtel de Ville;Place de la Libération;;91.0;Essonne;91640.0;BRIIS-SOUS-FORGES;48.6245346,2.1248517
+MAIRIE DE CRETEIL;4 fleurs;Hôtel de Ville;1 place Salvador Allende;;94.0;Val-de-Marne;94000.0;CRETEIL;48.7776722,2.4530087
+MAIRIE D'EPINAY-SUR-SEINE;2 fleurs;Hôtel de Ville;1 rue Quétigny;;93.0;Seine-Saint-Denis;93800.0;EPINAY-SUR-SEINE;48.9517318,2.3142335
+MAIRIE DE PIERREFITTE-SUR-SEINE;2 fleurs;Hôtel de Ville;2 place de la Libération;;93.0;Seine-Saint-Denis;93380.0;PIERREFITTE SUR SEINE;48.9633994,2.3591007
+MAIRIE DE SAINT-NOM-LA-BRETECHE;1 fleur;Hôtel de Ville;32 rue de la Fontaine des Vaux;;78.0;Yvelines;78860.0;SAINT-NOM-LA-BRETECHE;48.8597695,2.0206929
+MAIRIE DE VILLENEUVE-LA-GARENNE;3 fleurs;Hôtel de Ville;28 avenue de Verdun;;92.0;Hauts-de-Seine;92390.0;VILLENEUVE LA GARENNE;48.935901,2.3325663
+MAIRIE DE CORBREUSE;1 fleur;Hôtel de Ville;Rue des Écoles;;91.0;Essonne;91410.0;CORBREUSE;48.499382,1.960608
+MAIRIE DE NEUILLY-SUR-SEINE;3 fleurs;Hôtel de Ville;96 avenue Achille Peretti;;92.0;Hauts-de-Seine;92200.0;NEUILLY SUR SEINE;48.8849586,2.269797
+MAIRIE DE SEVRAN;2 fleurs;Hôtel de Ville;28 avenue du Général Leclerc;;93.0;Seine-Saint-Denis;93270.0;SEVRAN;48.9399746,2.5266848
+MAIRIE DE SAINT-REMY-LES-CHEVREUSE;1 fleur;Hôtel de Ville;2 avenue Victor Hugo;BP 38;78.0;Yvelines;78470.0;SAINT REMY LES CHEVREUSE;48.7060169,2.0726617
+MAIRIE DE COULOMMIERS;3 fleurs;Hôtel de Ville;13 rue du Général de Gaulle;;77.0;Seine-et-Marne;77120.0;COULOMMIERS;48.811993,3.085012
+MAIRIE DE FRANCONVILLE;3 fleurs;Hôtel de Ville;11 rue de la Station;BP 90043;95.0;Val-d'Oise;95132.0;FRANCONVILLE;48.9864964,2.2299905
+MAIRIE DE MONTALET-LE-BOIS;1 fleur;Hôtel de Ville;2 rue de l'Eglise;;78.0;Yvelines;78440.0;MONTALET-LE-BOIS;49.0459622,1.8256458
+MAIRIE DE BOINVILLE-EN-MANTOIS;2 fleurs;Hôtel de Ville;2 rue du Clos doré;;78.0;Yvelines;78930.0;BOINVILLE EN MANTOIS;48.9297917,1.7565998
+MAIRIE DE CHAMBOURCY;2 fleurs;Hôtel de Ville;2 place Charles de Gaulle;;78.0;Yvelines;78240.0;CHAMBOURCY;48.8557922,2.0190459
+MAIRIE DE CHAVENAY;2 fleurs;Hôtel de Ville;1 place de l'Eglise;;78.0;Yvelines;78450.0;CHAVENAY;48.853793,1.9866465
+MAIRIE DE LESIGNY;2 fleurs;Hôtel de Ville;6 rue Villarceau;;77.0;Seine-et-Marne;77150.0;LESIGNY;48.7444229,2.6160655
+MAIRIE DE MONTRY;1 fleur;Hôtel de Ville;25 avenue de la Mairie;;77.0;Seine-et-Marne;77450.0;MONTRY;48.8877533,2.8284089999999997
+MAIRIE DE RAMBOUILLET;3 fleurs;Hôtel de Ville;1 Place de la Libération;;78.0;Yvelines;78514.0;RAMBOUILLET CEDEX;48.6449451,1.8194238
+MAIRIE DE BOUGIVAL;1 fleur;Hôtel de Ville;126 rue du Maréchal Joffre;;78.0;Yvelines;78380.0;BOUGIVAL;48.8608942,2.1399982
+MAIRIE DE STAINS;2 fleurs;Hôtel de Ville;6 avenue Paul Vaillant Couturier;;93.0;Seine-Saint-Denis;93240.0;STAINS;48.9558242,2.3829642
+MAIRIE DE GRIGNY;2 fleurs;Hôtel de Ville;19 route de Corbeil;;91.0;Essonne;91350.0;GRIGNY;48.6561483,2.3850046
+MAIRIE DES MUREAUX;3 fleurs;Hôtel de Ville;Place de la liberation;;78.0;Yvelines;78130.0;LES MUREAUX;49.0399635,1.9411942999999998
+MAIRIE DE VILLECRESNES;2 fleurs;Hôtel de Ville;Place Charles de Gaulle;;94.0;Val-de-Marne;94440.0;VILLECRESNES;48.7494388,2.4803692
+MAIRIE DE BRUEIL-EN-VEXIN;1 fleur;Hôtel de Ville;14 rue de l'Église;;78.0;Yvelines;78440.0;BRUEIL EN VEXIN;49.0300181,1.8163474
+MAIRIE DE LA GARENNE-COLOMBES;2 fleurs;Hôtel de Ville;68 boulevard de la République;;92.0;Hauts-de-Seine;92250.0;LA GARENNE-COLOMBES;48.90691,2.2462853
+MAIRIE DE CERGY;3 fleurs;Hôtel de Ville;3 place de l'Hôtel de Ville;BP 48000 Cergy;95.0;Val-d'Oise;95801.0;CERGY-PONTOISE CEDEX;49.0502465,2.1001302
+MAIRIE D'OLLAINVILLE;2 fleurs;Hôtel de Ville;2 rue de la Mairie;;91.0;Essonne;91340.0;OLLAINVILLE;48.5909568,2.2171836
+MAIRIE DE VOISINS-LE-BRETONNEUX;2 fleurs;Hôtel de Ville;1 place Charles de Gaulle;B.P. 30036;78.0;Yvelines;78960.0;VOISINS LE BRETONNEUX;48.7586622,2.0500781
+MAIRIE DE COMPANS;3 fleurs;Hôtel de Ville;1 rue de la Mairie;;77.0;Seine-et-Marne;77290.0;COMPANS;48.9937423,2.66263
+MAIRIE D'EPINAY-SOUS-SENART;1 fleur;Hôtel de Ville;8 route Sainte Geneviève;;91.0;Essonne;91860.0;EPINAY SOUS SENART;48.6946562,2.5148512
+MAIRIE DE RUEIL-MALMAISON;4 fleurs;Hôtel de Ville;13 boulevard Foch;;92.0;Hauts-de-Seine;92500.0;RUEIL-MALMAISON;48.8781473,2.1809834
+MAIRIE DE LA FALAISE;1 fleur;Hôtel de Ville;Rue des Grands Prés;;78.0;Yvelines;78410.0;LA FALAISE;48.948189,1.829146
+MAIRIE D'EVRY;3 fleurs;Hôtel de Ville;Place des droits de l'homme et du citoyen;;91.0;Essonne;91000.0;EVRY CEDEX;48.624146,2.428767
+MAIRIE DU KREMLIN BICETRE;2 fleurs;Hôtel de Ville;42 rue de la Convention;;94.0;Val-de-Marne;94270.0;LE KREMLIN BICETRE;48.8121292,2.3568193
+MAIRIE DE MONTEVRAIN;1 fleur;Hôtel de Ville;4 rue Bonne Mouche;;77.0;Seine-et-Marne;77144.0;MONTEVRAIN;48.8750143,2.745294
+MAIRIE DE VILLEJUST;1 fleur;Hôtel de Ville;6 rue de la Mairie;;91.0;Essonne;91140.0;VILLEJUST;48.682256699999996,2.2365531
+MAIRIE DE MAGNY-LES-HAMEAUX;1 fleur;Hôtel de Ville;1 place Pierre Bérégovoy;;78.0;Yvelines;78114.0;MAGNY-LES-HAMEAUX;48.724021,2.083965
+MAIRIE DE LA COURNEUVE;3 fleurs;Hôtel de Ville;58 avenue Gabriel Péri;;93.0;Seine-Saint-Denis;93126.0;LA COURNEUVE CEDEX;48.926239,2.3917885
+MAIRIE DE LA TRETOIRE;1 fleur;Hôtel de Ville;Place de la Mairie;;77.0;Seine-et-Marne;77510.0;LA TRETOIRE;48.9236503,3.2735543
+MAIRIE DU COUDRAY MONTCEAUX;2 fleurs;Hôtel de Ville;45 avenue Charles de Gaulle;;91.0;Essonne;91830.0;LE COUDRAY MONTCEAUX;48.5654637,2.4861421
+MAIRIE DE MANTES-LA-JOLIE;3 fleurs;Hôtel de Ville;31 rue Gambetta;BP 1600;78.0;Yvelines;78200.0;MANTES LA JOLIE;48.9893796,1.7152979
+MAIRIE DE MANTES-LA-VILLE;1 fleur;Hôtel de Ville;Place de la Mairie;;78.0;Yvelines;78711.0;MANTES LA VILLE;48.977996,1.713578
+MAIRIE DE MARLY-LE-ROI;2 fleurs;Hôtel de Ville;Place du Général de Gaulle;;78.0;Yvelines;78160.0;MARLY-LE-ROI;48.868213,2.097123
+MAIRIE D'ANNET-SUR-MARNE;3 fleurs;Hôtel de Ville;38 rue Paul-Valentin;BP n°3;77.0;Seine-et-Marne;77410.0;ANNET-SUR-MARNE;48.9256373,2.7210641
+MAIRIE D'AVON;3 fleurs;Hôtel de Ville;8 rue Père Maurice;;77.0;Seine-et-Marne;77216.0;AVON CEDEX;48.4049351,2.7208826
+MAIRIE D'EAUBONNE;3 fleurs;Hôtel de Ville;1 rue d'Enghien;;95.0;Val-d'Oise;95600.0;EAUBONNE;48.9910724,2.2789854
+MAIRIE DE MARINES;2 fleurs;Hôtel de Ville;Place du Maréchal Leclerc;BP 21;95.0;Val-d'Oise;95640.0;MARINES;49.145141,1.982606
+MAIRIE DE SACLAY;1 fleur;Hôtel de Ville;12 place de la Mairie;;91.0;Essonne;91400.0;SACLAY;48.7309643,2.1724777
+MAIRIE DE SAINT-GRATIEN;3 fleurs;Hôtel de Ville;Place Gambetta;;95.0;Val-d'Oise;95210.0;SAINT GRATIEN;48.9526366,2.2572532
+MAIRIE DE SANTENY;2 fleurs;Hôtel de Ville;Place du Général De Gaulle;;94.0;Val-de-Marne;94440.0;SANTENY;48.725774,2.5701359999999998
+MAIRIE DE CHEVREUSE;2 fleurs;Hôtel de Ville;5 rue de la Division Leclerc;;78.0;Yvelines;78460.0;CHEVREUSE;48.707679,2.0446522
+MAIRIE DE FAREMOUTIERS;2 fleurs;Hôtel de Ville;Avenue Victor Massoul;;77.0;Seine-et-Marne;77515.0;FAREMOUTIERS;48.8032826,3.0011501
+MAIRIE DE MAROLLES-EN-BRIE (94);3 fleurs;Hôtel de Ville;Place Charles de Gaulle;;94.0;Val-de-Marne;94440.0;MAROLLES-EN-BRIE;48.7524098,2.4997758
+MAIRIE DE SAINT-PIERRE-DU-PERRAY;1 fleur;Hôtel de Ville;2 avenue des Jasmins;;91.0;Essonne;91280.0;SAINT PIERRE DU PERRAY;48.6131403,2.4963165
+MAIRIE D'ARNOUVILLE;3 fleurs;Hôtel de Ville;15-17 rue Robert Schuman;CS 20101;95.0;Val-d'Oise;95400.0;ARNOUVILLE;48.9896288,2.4202668
+MAIRIE DE CREGY-LES-MEAUX;2 fleurs;Hôtel de Ville;23 rue Jean Jaurès;;77.0;Seine-et-Marne;77124.0;CREGY LES MEAUX;48.9781166,2.8776526000000002
+MAIRIE DE LA CELLE-SAINT-CLOUD;3 fleurs;Hôtel de Ville;8E avenue Charles de Gaulle;;78.0;Yvelines;78170.0;LA CELLE-SAINT-CLOUD;48.8486863,2.1371357
+MAIRIE DE MALAKOFF;3 fleurs;Hôtel de Ville;1 place du 11 Novembre;;92.0;Hauts-de-Seine;92240.0;MALAKOFF;48.8211267,2.3014858
+MAIRIE DE WISSOUS;1 fleur;Hôtel de Ville;Place de la Libération;;91.0;Essonne;91320.0;WISSOUS;48.7024611,2.3207485
+MAIRIE D'ACHERES;2 fleurs;Hôtel de Ville;8 rue Deschamps Guérin;;78.0;Yvelines;78260.0;ACHERES;48.9606335,2.0697246
+MAIRIE D'ARCUEIL;2 fleurs;Hôtel de Ville;10 avenue Paul Doumer;;94.0;Val-de-Marne;94114.0;ARCUEIL CEDEX;48.8060118,2.3370875
+MAIRIE DE MASSY;3 fleurs;Hôtel de Ville;1 avenue du Général de Gaulle;;91.0;Essonne;91300.0;MASSY;48.7308902,2.2713074
+MAIRIE DE TOURNAN-EN-BRIE;1 fleur;Hôtel de Ville;Place Edmond de Rothschild;BP 10027;77.0;Seine-et-Marne;77221.0;TOURNAN-EN-BRIE CEDEX;48.7407883,2.7637792
+MAIRIE DE MAGNANVILLE;1 fleur;Hôtel de Ville;Rue de la Ferme;;78.0;Yvelines;78200.0;MAGNANVILLE;48.967304,1.681299
+MAIRIE DE COUPVRAY;1 fleur;Hôtel de Ville;Place de la Mairie;;77.0;Seine-et-Marne;77700.0;COUPVRAY;48.891616,2.7935884
+MAIRIE DE COURCOURONNES;3 fleurs;Hôtel de Ville;2 rue Paul Puech;;91.0;Essonne;91080.0;COURCOURONNES;48.6173884,2.4081245
+MAIRIE DE PANTIN;2 fleurs;Hôtel de Ville;84/88 avenue du Général Leclerc;;93.0;Seine-Saint-Denis;93507.0;PANTIN CEDEX;48.8970282,2.4035563
+MAIRIE DE CHARENTON-LE-PONT;3 fleurs;Hôtel de Ville;48 rue de Paris;;94.0;Val-de-Marne;94220.0;CHARENTON LE PONT;48.8197131,2.4161278
+MAIRIE DE CHILLY-MAZARIN;3 fleurs;Hôtel de Ville;Place du 8 mai 1945;BP 107;91.0;Essonne;91383.0;CHILLY-MAZARIN CEDEX;48.7018824,2.3140331
+MAIRIE DE CLAMART;3 fleurs;Hôtel de Ville;Place Maurice Gunsbourg;;92.0;Hauts-de-Seine;92141.0;CLAMART CEDEX;48.8002784,2.262678
+MAIRIE DE BOULOGNE BILLANCOURT;3 fleurs;Hôtel de Ville;26 avenue André Morizet;;92.0;Hauts-de-Seine;92100.0;BOULOGNE-BILLANCOURT;48.8359758,2.240282
+MAIRIE DE VERT-LE-GRAND;2 fleurs;Hôtel de Ville;7 place de la Mairie;;91.0;Essonne;91810.0;VERT-LE-GRAND;48.5731166,2.3594348
+MAIRIE D'ARGENTEUIL;3 fleurs;Hôtel de Ville;12-14 boulevardd Léon Feix;;95.0;Val-d'Oise;95107.0;ARGENTEUIL;48.9468545,2.2492426
+MAIRIE DE BOUSSY-SAINT-ANTOINE;1 fleur;Hôtel de Ville;5 place des Droits de l'Homme;;91.0;Essonne;91800.0;BOUSSY ST ANTOINE;48.6891076,2.5297452
+MAIRIE D'ELANCOURT;3 fleurs;Hôtel de Ville;Place du Général de Gaulle;;78.0;Yvelines;78990.0;ELANCOURT;48.7683911,1.9484637999999999
+MAIRIE DE GRISY-LES-PLATRES;1 fleur;Hôtel de Ville;10 rue Robert Machy;;95.0;Val-d'Oise;95810.0;GRISY-LES-PLATRES;49.1308155,2.0505105
+MAIRIE DE MONTFERMEIL;1 fleur;Hôtel de Ville;7/11 place Jean Mermoz;;93.0;Seine-Saint-Denis;93370.0;MONTFERMEIL;48.9019969,2.571692
+MAIRIE DE NEUILLY-SUR-MARNE;1 fleur;Hôtel de Ville;1 place François Mitterrand;;93.0;Seine-Saint-Denis;93330.0;NEUILLY-SUR-MARNE;48.8571267,2.5286871
+MAIRIE DE PROVINS;3 fleurs;Hôtel de Ville;5 place du Général Leclerc;;77.0;Seine-et-Marne;77160.0;PROVINS;48.5298472,3.255377
+MAIRIE DE SARCELLES;2 fleurs;Centre administratif;4 place de Navarre;;95.0;Val-d'Oise;95200.0;SARCELLES;48.997324,2.378285
+MAIRIE DE VERT-SAINT-DENIS;1 fleur;Hôtel de Ville;2 rue Pasteur;;77.0;Seine-et-Marne;77240.0;VERT SAINT DENIS;48.5649201,2.6127551
+MAIRIE DE VINCENNES;3 fleurs;Hôtel de Ville;53 Bis rue de Fontenay;;94.0;Val-de-Marne;94304.0;VINCENNES CEDEX;48.847694,2.439799
+MAIRIE DE CONFLANS-SAINTE-HONORINE;1 fleur;Hôtel de Ville;63 rue Maurice Berteaux;;78.0;Yvelines;78703.0;CONFLANS SAINTE HONORINE;48.9937504,2.0947198
+MAIRIE DE SAINT-THIBAULT-DES-VIGNES;1 fleur;Hôtel de Ville;Place de l'Eglise;;77.0;Seine-et-Marne;77400.0;SAINT THIBAULT DES VIGNES;48.868316,2.687956
+MAIRIE DE VAUHALLAN;1 fleur;Hôtel de Ville;10 Grande Rue du 8 mai 1945;;91.0;Essonne;91430.0;VAUHALLAN;48.7337447,2.2072937
+MAIRIE DE CESSON;1 fleur;Hôtel de Ville;8 route de Saint-Leu;B.P. 35;77.0;Seine-et-Marne;77245.0;CESSON CEDEX;48.56268,2.6025648
+MAIRIE DE MONTROUGE;3 fleurs;Hôtel de Ville;43 avenue de la République;;92.0;Hauts-de-Seine;92120.0;MONTROUGE;48.8189314,2.3198979
+MAIRIE DE VILLEPINTE;3 fleurs;Hôtel de Ville;Place de l'Hôtel de Ville;;93.0;Seine-Saint-Denis;93420.0;VILLEPINTE;48.9634987,2.5344766
+MAIRIE DE HOUILLES;2 fleurs;Hôtel de Ville;16 rue Gambetta;;78.0;Yvelines;78805.0;HOUILLES;48.9231927,2.186706
+MAIRIE DE LA CHAPELLE-IGER;1 fleur;Hôtel de Ville;2 rue du Maréchal Leclerc;;77.0;Seine-et-Marne;77540.0;LA CHAPELLE-IGER;48.6520048,2.9901192
+MAIRIE DU PLESSIS-TREVISE;3 fleurs;Hôtel de Ville;36 avenue Ardouin;;94.0;Val-de-Marne;94420.0;LE PLESSIS TREVISE;48.8087415,2.5730938
+MAIRIE DE NEUILLY-PLAISANCE;2 fleurs;Hôtel de Ville;6 rue du Général de Gaulle;;93.0;Seine-Saint-Denis;93360.0;NEUILLY PLAISANCE;48.8609973,2.5063705
+MAIRIE DE VAUX-LE-PENIL;2 fleurs;Hôtel de Ville;8 rue des Carouges;;77.0;Seine-et-Marne;77000.0;VAUX LE PENIL;48.5257882,2.6835638
+MAIRIE DE GROSLAY;1 fleur;Hôtel de Ville;22 rue du Général leclerc;;95.0;Val-d'Oise;95410.0;GROSLAY;48.9867207,2.3451104
+MAIRIE DE VILLETANEUSE;3 fleurs;Hôtel de Ville;Place de l'Hôtel de ville;;93.0;Seine-Saint-Denis;93430.0;VILLETANEUSE;48.9614722,2.3438328
+MAIRIE DE LAGNY-SUR-MARNE;3 fleurs;Hôtel de Ville;2 place de l'Hôtel de Ville;;77.0;Seine-et-Marne;77400.0;LAGNY-SUR-MARNE;48.8776383,2.7055435
+MAIRIE DE MOUSSY LE NEUF;3 fleurs;Hôtel de Ville;Place Charles de Gaulle;;77.0;Seine-et-Marne;77230.0;MOUSSY-LE-NEUF;49.063722,2.6040609999999997
+MAIRIE D'AULNAY SOUS BOIS;4 fleurs;Hôtel de Ville;Place de l'Hôtel de Ville;;93.0;Seine-Saint-Denis;93600.0;AULNAY SOUS BOIS;48.9344024,2.4996776
+MAIRIE DE GOURNAY-SUR-MARNE;2 fleurs;Hôtel de Ville;10 Avenue Foch;B.P. 11;93.0;Seine-Saint-Denis;93460.0;GOURNAY SUR MARNE;48.8738459,2.5805659
+MAIRIE DE MEUDON;4 fleurs;Hôtel de Ville;6 avenue Le Corbeiller;;92.0;Hauts-de-Seine;92190.0;MEUDON;48.8127232,2.2386217999999998
+MAIRIE DE NOGENT-SUR-MARNE;3 fleurs;Hôtel de Ville;Square d'Estienne d'Orves;;94.0;Val-de-Marne;94130.0;NOGENT-SUR-MARNE;48.8527446,2.4545097
+MAIRIE D'ARPAJON;3 fleurs;Hôtel de Ville;70 Grande Rue;;91.0;Essonne;91290.0;ARPAJON;48.5901085,2.2484479
+MAIRIE DU VESINET;4 fleurs;Hôtel de Ville;60 boulevard Carnot;;78.0;Yvelines;78110.0;LE VESINET;48.8940078,2.1348145
+MAIRIE DE LOUVECIENNES;3 fleurs;Hôtel de Ville;30 rue du Général Leclerc;;78.0;Yvelines;78430.0;LOUVECIENNES;48.8612073,2.1157641
+MAIRIE DU MEE-SUR-SEINE;4 fleurs;Hôtel de Ville;111 rue de la Vive;;77.0;Seine-et-Marne;77350.0;LE MEE-SUR-SEINE;48.5124495,2.6245634
+MAIRIE DE PARMAIN;2 fleurs;Hôtel de Ville;2 place Georges Clémenceau;;95.0;Val-d'Oise;95620.0;PARMAIN;49.1138561,2.2092934
+MAIRIE DE CORBEIL-ESSONNES;2 fleurs;Hôtel de Ville;2 place Galignani;;91.0;Essonne;91100.0;CORBEIL ESSONNES;48.6139553,2.4817776
+MAIRIE DE COURDIMANCHE;1 fleur;Hôtel de Ville;Rue Vieille Saint Martin;;95.0;Val-d'Oise;95800.0;COURDIMANCHE;49.0417202,2.0053221
+MAIRIE DE VANVES;2 fleurs;Hôtel de Ville;33 rue Antoine Fratacci;;92.0;Hauts-de-Seine;92170.0;VANVES;48.8212024,2.288556
+MAIRIE DE NOISY-LE-GRAND;2 fleurs;Hôtel de Ville;1 place de la Libération;BP 49;93.0;Seine-Saint-Denis;93161.0;NOISY-LE-GRAND;48.804355,2.5359131
+MAIRIE D'ETRECHY;2 fleurs;Hôtel de Ville;Place Charles de Gaulle;;91.0;Essonne;91580.0;ETRECHY;48.4935553,2.1895444
+MAIRIE DE LIZY-SUR-OURCQ;2 fleurs;Hôtel de Ville;Place de Verdun;;77.0;Seine-et-Marne;77440.0;LIZY-SUR-OURCQ;48.9993208,3.004241
+MAIRIE DE SOISY-SUR-SEINE;2 fleurs;Hôtel de Ville;Place du Général Leclerc;;91.0;Essonne;91450.0;SOISY SUR SEINE;48.6539278,2.411812
+MAIRIE DU PLESSIS-ROBINSON;4 fleurs;Hôtel de Ville;3 place de la Mairie;;92.0;Hauts-de-Seine;92350.0;LE PLESSIS-ROBINSON;48.7823665,2.2618003
+MAIRIE DE MORET-SUR-LOING;2 fleurs;Hôtel de Ville;26 rue Grande;;77.0;Seine-et-Marne;77250.0;MORET-SUR-LOING;48.373214,2.816498
+MAIRIE DE SAMOREAU;1 fleur;Hôtel de Ville;24 rue Haut de Samoreau;;77.0;Seine-et-Marne;77210.0;SAMOREAU;48.42538,2.755994
+MAIRIE D'AUBERGENVILLE;2 fleurs;Hôtel de Ville;1 Avenue de la Division Leclerc;;78.0;Yvelines;78416.0;AUBERGENVILLE CEDEX;48.9589606,1.8551532
+MAIRIE DE BONDY;2 fleurs;Hôtel de Ville;Esplanade Claude Fuzier;;93.0;Seine-Saint-Denis;93140.0;BONDY;48.9022362,2.4817280999999998
+MAIRIE DE DOURDAN;3 fleurs;Hôtel de Ville;Esplanade Jean Moulin;BP 10107;91.0;Essonne;91415.0;DOURDAN CEDEX;48.529559,2.012853
+MAIRIE DE GUERARD;1 fleur;Hôtel de Ville;Grande Rue;;77.0;Seine-et-Marne;77580.0;GUERARD;48.8176168,2.9610127
+MAIRIE DE LA ROCHETTE;1 fleur;Hôtel de Ville;55 rue Rosa Bonheur;BP 801;77.0;Seine-et-Marne;77012.0;LA ROCHETTE;48.5206968,2.6555309
+MAIRIE DE ROISSY-EN-FRANCE;2 fleurs;Hôtel de Ville;40 avenue Charles de Gaulle;;95.0;Val-d'Oise;95700.0;ROISSY EN FRANCE;49.0032362,2.5184313
+MAIRIE D'AUVERS SUR OISE;1 fleur;Hôtel de Ville;17 rue du Général de Gaulle;;95.0;Val-d'Oise;95430.0;AUVERS SUR OISE;49.0705839,2.1713161
+MAIRIE DE COMBS-LA-VILLE;2 fleurs;Hôtel de Ville;Place de l'Hôtel de Ville;;77.0;Seine-et-Marne;77380.0;COMBS-LA-VILLE;48.664759,2.565172
+MAIRIE DE LONGJUMEAU;3 fleurs;Hôtel de Ville;6 bis rue Léontine Sohier;BP 482;91.0;Essonne;91164.0;LONGJUMEAU CEDEX;48.694115,2.295722
+MAIRIE DE PUTEAUX;3 fleurs;Hôtel de Ville;131 rue de la République;;92.0;Hauts-de-Seine;92800.0;PUTEAUX;48.8844636,2.2380969
+MAIRIE DE SAINT-GERMAIN-LES-ARPAJON;2 fleurs;Hôtel de Ville;2 rue René Dècle;;91.0;Essonne;91180.0;SAINT GERMAIN LES ARPAJON;48.5954162,2.2553985
+MAIRIE DE CHAVILLE;3 fleurs;Hôtel de Ville;1456 av Roger Salengro;;92.0;Hauts-de-Seine;92370.0;CHAVILLE;48.8097566,2.1883895
+MAIRIE DE JOINVILLE-LE-PONT;3 fleurs;Hôtel de Ville;23 rue de Paris;B.P. 83;94.0;Val-de-Marne;94344.0;JOINVILLE-LE-PONT;48.8182577,2.4670834
+MAIRIE DE SAINT-MANDE;2 fleurs;Hôtel de Ville;10 place Charles Digeon;;94.0;Val-de-Marne;94160.0;SAINT MANDE;48.8432358,2.4191534
+MAIRIE DE SOISY SOUS MONTMORENCY;4 fleurs;Hôtel de Ville;2 avenue du Général de Gaulle;;95.0;Val-d'Oise;95230.0;SOISY-SOUS-MONTMORENCY;48.9874476,2.3006723
+MAIRIE DE VELIZY-VILLACOUBLAY;4 fleurs;Hôtel de Ville;2 place de l'Hôtel de Ville;BP 151;78.0;Yvelines;78145.0;VELIZY VILLACOUBLAY;48.7828503,2.191159
+MAIRIE DE FONTENAY-SOUS-BOIS;3 fleurs;Hôtel de Ville;4 esplanade Louis Bayeurte;;94.0;Val-de-Marne;94125.0;FONTENAY SOUS BOIS CEDEX;48.851557,2.475798
+MAIRIE DE LARDY;1 fleur;Hôtel de Ville;70 Grande Rue;;91.0;Essonne;91510.0;LARDY;48.520246,2.2647014
+MAIRIE DE MELUN;4 fleurs;Hôtel de Ville;Rue Paul Doumer;;77.0;Seine-et-Marne;77000.0;MELUN;48.5395013,2.6610621
+MAIRIE DE SEVRES;3 fleurs;Hôtel de Ville;54 Grand Rue;;92.0;Hauts-de-Seine;92310.0;SEVRES;48.824652,2.213374
+MAIRIE DE YERRES;3 fleurs;Hôtel de Ville;60 rue Charles de Gaulle;;91.0;Essonne;91330.0;YERRES;48.7169596,2.4900921
+MAIRIE DE BRETIGNY-SUR-ORGE;2 fleurs;Hôtel de Ville;44 rue de la Mairie;;91.0;Essonne;91220.0;BRETIGNY SUR ORGE;48.6112535,2.3059307
+MAIRIE DE NANGIS;1 fleur;Hôtel de Ville;Rue du Maréchal de Lattre de Tassigny;B.P.55;77.0;Seine-et-Marne;77370.0;NANGIS;48.555402,3.013792
+MAIRIE DE BRAY-SUR-SEINE;1 fleur;Hôtel de Ville;Place du Général de Gaulle;;77.0;Seine-et-Marne;77480.0;BRAY SUR SEINE;48.4148078,3.2397383
+MAIRIE DE SANNOIS;3 fleurs;Hôtel de Ville;Place du Général Leclerc;;95.0;Val-d'Oise;95110.0;SANNOIS;49.0049828,2.2599118
+MAIRIE DE CHEVILLY-LARUE;2 fleurs;Hôtel de Ville;88 avenue du Général de Gaulle;;94.0;Val-de-Marne;94550.0;CHEVILLY LARUE;48.7709625,2.3478216
+MAIRIE DE CROISSY BEAUBOURG;3 fleurs;Hôtel de Ville;30 rue de Paris;;77.0;Seine-et-Marne;77183.0;CROISSY BEAUBOURG;48.8278965,2.6596563
+MAIRIE DE MONTEREAU-FAULT-YONNE;3 fleurs;Hôtel de Ville;54 rue Jean Jaurès;;77.0;Seine-et-Marne;77130.0;MONTEREAU FAULT YONNE;48.3847375,2.9563587
+MAIRIE DE GARCHES;3 fleurs;Hôtel de Ville;2 rue Claude Liard;;92.0;Hauts-de-Seine;92380.0;GARCHES;48.8431302,2.1870953
+MAIRIE DE CACHAN;3 fleurs;Hôtel de Ville;Square de la Libération;BP 130;94.0;Val-de-Marne;94234.0;CACHAN CEDEX;48.79463,2.3339090000000002
+MAIRIE DE SCEAUX;2 fleurs;Hôtel de Ville;122 rue Houdan;;92.0;Hauts-de-Seine;92330.0;SCEAUX;48.7791971,2.2885144
