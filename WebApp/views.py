@@ -16,8 +16,8 @@ def index(request):
     # Add a marker to the map for each location
     for localisation in Localisation.objects.all():
         popup_content = {
-            localisation.label_vvf,
-            localisation.ville,
+            'Label VVF': localisation.label_vvf,
+            'Ville': localisation.ville,
             }
         if localisation.label_vvf == "4 fleurs":
             folium.Marker(
