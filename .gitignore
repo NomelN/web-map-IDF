@@ -1,0 +1,4 @@
+venv/
+VilleFleurieIDF/__pycache__/
+WebApp/__pycache__/
+WebApp/migrations/__pycache__/
